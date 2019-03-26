@@ -10,3 +10,6 @@ In the game level, to move the ship you move the mouse in the desired direction 
 When the game is paused, mouse click on the text to perform the desired action.
 
 When the game is over, the game will enter a modified paused state where you cannot resume the game, the other paused options will be available however. When this modified pause menu shows up, click on the text to perform the desired action.
+
+Finally, I hope that my fellow coders find this code and project to be useful. 
+Thank you for checking out my GitHub page, it is much appreciated!
